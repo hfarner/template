@@ -1,1 +1,1 @@
-# template
+# template wordpress pour DIVI 
